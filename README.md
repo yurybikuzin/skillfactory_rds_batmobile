@@ -1,5 +1,5 @@
 ![Title PNG "Skill Factory"](/assets/skillfactory_logo.png)
-# Проект №6. Ford vs Ferrari
+# Проект 7. Возьмёте Бэтмобиль?
 
 <!-- vim-markdown-toc Redcarpet -->
 
