@@ -23,6 +23,6 @@ https://www.kaggle.com/itslek/baseline-sf-dst-car-price-part2-v6
 
 ## Ноутбук
 
-[baseline](baseline-sf-dst-car-price-part2-v6.ipynb)
+[notebooks/baseline](baseline-sf-dst-car-price-part2-v6.ipynb)
 
 
