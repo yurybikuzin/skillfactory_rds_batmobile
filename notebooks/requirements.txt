@@ -82,6 +82,7 @@ html5lib==1.0.1
 httplib2==0.18.1
 hypothesis==5.5.4
 idna==2.8
+ImageDataAugmentor==0.0.0
 imageio==2.6.1
 imagesize==1.2.0
 imgaug==0.4.0
