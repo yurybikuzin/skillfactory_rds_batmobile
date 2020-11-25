@@ -83,6 +83,8 @@ jupyter-client==6.1.7
 jupyter-console==6.2.0
 jupyter-core==4.6.3
 jupyterlab-pygments==0.1.2
+Keras==2.4.3
+keras-adabound==0.6.0
 Keras-Preprocessing==1.1.2
 keyring==18.0.1
 keyrings.alt==3.4.0
@@ -204,6 +206,7 @@ tifffile==2020.10.1
 tornado==6.0.4
 tqdm==4.52.0
 traitlets==5.0.5
+typeguard==2.10.0
 ubuntu-advantage-tools==20.3
 ubuntu-drivers-common==0.0.0
 ufw==0.36
