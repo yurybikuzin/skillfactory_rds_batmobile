@@ -1,3 +1,4 @@
 *.hdf5
+notebooks/*.hdf5
 notebooks/.ipynb_checkpoints/*
 
